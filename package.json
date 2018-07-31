@@ -1,0 +1,15 @@
+{
+  "name": "port-site",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Website",
+  "main": "main.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Chris Wright",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.2",
+    "npm": "^6.2.0"
+  }
+}
